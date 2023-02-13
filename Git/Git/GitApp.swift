@@ -15,4 +15,3 @@ struct GitApp: App {
         }
     }
 }
-//Revert this comment
